@@ -1,0 +1,58 @@
+/* Zadanie 18 – Arkusz stylów DIV i SPAN */
+
+/* Ogólne ustawienia strony */
+body {
+  background-color: #f0f0f0;
+  font-family: "Times New Roman", serif;
+  margin: 20px;
+}
+
+/* Blok 1 – DIV */
+#blok1 {
+  background-color: yellow;
+  width: 1200px;
+  border: 2px solid black;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+#blok1 span {
+  color: red;
+  font-size: 1.2cm;
+  font-family: Arial, sans-serif;
+}
+
+/* Blok 2 – SPAN */
+#blok2 {
+  background-color: pink;
+  width: 1080px;
+  border: 2px solid black;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+#blok2 span {
+  color: blue;
+  font-size: 1cm;
+  font-family: Verdana, sans-serif;
+}
+
+/* Blok 3 – różnice między DIV i SPAN */
+#blok3 {
+  background-color: lightgreen;
+  width: 1180px;
+  border: 2px solid black;
+  padding: 10px;
+}
+
+#blok3 span {
+  color: maroon;
+  font-size: 1.1cm;
+  font-family: Arial, sans-serif;
+}
+
+/* Dodatkowe formatowanie list */
+ul {
+  list-style-type: square;
+  font-size: 7mm;
+}
