@@ -1,0 +1,13 @@
+div { 
+  background-color: silver; 
+  padding: 10px; 
+  margin-bottom: 20px; 
+}
+span { 
+  color: blue; 
+  font-size: 25mm; 
+}
+p { 
+  color: green; 
+  font-size: 40mm; 
+}

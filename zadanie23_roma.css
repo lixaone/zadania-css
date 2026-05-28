@@ -1,0 +1,37 @@
+#ppgrupowanie_nazwisko_ucznia { 
+  color: purple; 
+  font-size: 25px; 
+}
+
+#ppchylona_nazwisko_ucznia { 
+  color: blue; 
+  font-size: 30px; 
+  font-style: italic; 
+}
+
+#ppindex_gory_nazwisko_ucznia { 
+  color: red; 
+  font-size: 20px; 
+}
+
+#ppindex_dolny_nazwisko_ucznia { 
+  color: green; 
+  font-size: 18px; 
+}
+
+#ppgruby_nazwisko_ucznia { 
+  color: orange; 
+  font-weight: bold; 
+  font-size: 22px; 
+}
+
+#pppogrubienie_nazwisko_ucznia { 
+  color: teal; 
+  font-size: 24px; 
+  font-weight: bold; 
+}
+
+#pppomniejszenie_nazwisko_ucznia { 
+  color: gray; 
+  font-size: 16px; 
+}
